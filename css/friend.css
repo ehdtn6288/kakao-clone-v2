@@ -54,3 +54,7 @@
   padding: 11px 15px;
   border-radius: 6px;
 }
+
+.chats__list .chat {
+  margin-bottom: 24px;
+}
